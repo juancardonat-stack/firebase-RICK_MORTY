@@ -1,0 +1,1 @@
+# firebase-RICK_MORTY
